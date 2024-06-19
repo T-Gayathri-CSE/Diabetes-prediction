@@ -48,6 +48,8 @@ The project evaluates the performance of each machine learning model based on ac
 
 Follow these steps to set up the project on your local machine.
 
+Note : **Python 3.7.5**
+
 ## Step 1: Clone the repository
 
 First, clone the repository to your local machine.
