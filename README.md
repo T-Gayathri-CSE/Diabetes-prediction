@@ -48,30 +48,30 @@ The project evaluates the performance of each machine learning model based on ac
 
 Follow these steps to set up the project on your local machine.
 
-### Step 1: Clone the repository
+## Step 1: Clone the repository
 
 First, clone the repository to your local machine.
 
-S**tep 2: Install the required libraries**
+## Step 2: Install the required libraries
 
 Install the necessary libraries using pip:
 
-pip install Django
+**pip install Django
 
 pip install pandas
 
-pip install scikit-learn
+pip install scikit-learn**
 
 
-**Step 3: Start the development server**
+## Step 3: Start the development server
 
 Run the following command to start the Django development server:
 
-python manage.py runserver
+**python manage.py runserver**
 
-**Step 4: Access the application**
+## Step 4: Access the application
 
-Open your web browser and go to: http://127.0.0.1:8000/
+Open your web browser and go to: **http://127.0.0.1:8000/**
 
 You should see the home page of the Diabetes Prediction application.
 
