@@ -56,11 +56,11 @@ First, clone the repository to your local machine.
 
 Install the necessary libraries using pip:
 
-**pip install Django
+**pip install Django**
 
-pip install pandas
+**pip install pandas**
 
-pip install scikit-learn**
+**pip install scikit-learn**
 
 
 ## Step 3: Start the development server
